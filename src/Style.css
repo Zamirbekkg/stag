@@ -1,0 +1,14 @@
+
+
+.urlConteiner{
+    width: 110px;
+    height: 18px;
+    margin-top: 75px;
+    margin-left: 998px;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    transform: background-color 0.3s;
+    z-index: 1000;
+}
+
